@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:noise_meter/bottom_bar/bottom_bar.dart';
+import 'package:noise_meter_test/bottom_bar/bottom_bar.dart';
 
 class Info extends StatelessWidget {
   const Info({super.key});
